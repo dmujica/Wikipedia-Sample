@@ -1,7 +1,10 @@
-body {
+header {
+	background: green;
+}
+
+nav {
 	background: red;
-	
-	}
+}
 
 
 /* Help Classes */
