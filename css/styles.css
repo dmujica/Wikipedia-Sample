@@ -1,10 +1,25 @@
-header {
-	background: green;
+/* 
+Color Palette
+
+1st #CBD5BD, light green
+2nd #3C2E2D, darker brown
+3rd #F1C0B2, salmon
+
+*/
+
+body {
+	font-family: 'Voltaire', sans-serif;
+	background: url("../img/binding_light.png")
 }
 
-nav {
-	background: red;
+h1 {
+	color: #CBD5BD;
 }
+
+
+
+
+
 
 
 /* Help Classes */
