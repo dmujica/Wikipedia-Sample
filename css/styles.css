@@ -12,11 +12,23 @@ body {
 	background: url("../img/binding_light.png")
 }
 
-h1 {
+h1, h3 {
 	color: #CBD5BD;
+	text-transform: uppercase;
+	border-bottom: 10px solid black;
 }
 
+.container_12 {
+	background: rgba(255,255,255,.25);
+}
 
+h3 {
+	padding:0 0 10px 0;
+}
+
+img {
+	box-shadow: 0px 0px 20px #CCCCCC;
+}
 
 
 
